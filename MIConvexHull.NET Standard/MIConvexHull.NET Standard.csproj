@@ -20,7 +20,7 @@
     <RepositoryType>git</RepositoryType>
     <AssemblyVersion>1.0.17.1019</AssemblyVersion>
     <FileVersion>1.0.17.1019</FileVersion>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>MIConvexHull.pfx</AssemblyOriginatorKeyFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Product>MIConvexHull</Product>
